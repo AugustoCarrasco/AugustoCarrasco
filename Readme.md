@@ -8,15 +8,14 @@
 <div align="center">
 <img  style="border-radius:50%; width:300px; height:auto; margin:auto;" src="https://media.licdn.com/dms/image/D4D03AQETK0VjKvc0rw/profile-displayphoto-shrink_800_800/0/1695029528124?e=1701302400&v=beta&t=1UC20o_M9BhwFUMqI1onlPe65UFl5mWNgQecTiuJiEA" alt="readme picture">
 </div>
-
+<hr>
 <div align="center">
 
 </div>
 
 <div class="socialmedia">
-  Follow and reach me at:
  
-  <p>
+  <p align="center">
   <a href="www.linkedin.com/in/augusto-santiago-carrasco-toro-057179281" target="_blank"><img style="width:2rem; height:2rem;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
     &nbsp
   <a href="https://www.instagram.com/agusct/" target="_blank"><img style="width:2rem; height:2rem;"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg"></a>
