@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hello!  I'm Augusto Carrasco! </h3>
 <hr>
-<h5 align="center">I am currently working at an StartUp dedicated to change the way we see the <i>world of interactions</i> between people! </h5>
+<h4 align="center">I am currently working at an StartUp dedicated to change the way we see the <i>world of interactions</i> between people! </h4>
 <hr>
 
 <div align="center">
