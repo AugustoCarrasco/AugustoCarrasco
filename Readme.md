@@ -6,7 +6,7 @@
 <hr>
 
 <div align="center">
-<img  style="border-radius:50%; width:300px; height:auto; margin:auto;" src="[https://media.licdn.com/dms/image/D4D03AQETK0VjKvc0rw/profile-displayphoto-shrink_800_800/0/1695029528124?e=1701302400&v=beta&t=1UC20o_M9BhwFUMqI1onlPe65UFl5mWNgQecTiuJiEA](https://avatars.githubusercontent.com/u/142824503?v=4)" alt="readme picture">
+<img  style="border-radius:50%; width:300px; height:auto; margin:auto;" src="https://avatars.githubusercontent.com/u/142824503?v=4" alt="readme picture">
 </div>
 <hr>
 <div align="center">
