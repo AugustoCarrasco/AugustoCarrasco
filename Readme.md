@@ -11,7 +11,6 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on [FlowFinance](https://flow-finance-24.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AugustoCarrasco](https://github.com/AugustoCarrasco)
 
